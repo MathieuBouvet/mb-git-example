@@ -1,1 +1,3 @@
 a new feature on dev branch
+
+somone added another feature
